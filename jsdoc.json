@@ -1,0 +1,11 @@
+{
+  "source": {
+    "include": ["src/**/*.js"]
+  },
+  "destination": "docs",
+  "templates": {
+    "default": {
+      "outputSourceFiles": true
+    }
+  }
+}
